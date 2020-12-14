@@ -1,0 +1,5 @@
+hello and wellcome to cousreswork 2
+in this stage of the project im going to build docker image from docker file 
+first create new folder and called (DW2)
+then create file name Dockerfile
+then open teminal git bash  
