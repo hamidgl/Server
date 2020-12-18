@@ -2,7 +2,7 @@ pipeline {
     agent any
 
   environment {
-    registry = "jpenma200/coursework2"
+    registry = "hamidgl/coursework2"
     registryCredential = 'dockerhub'
   }
 
@@ -10,7 +10,7 @@ pipeline {
 	
 	stage('Cloning Git') {
   steps {
-    git 'https://github.com/jackPenman/coursework_2.git'
+    git 'https://github.com/hamidgl/Server.git'
   }
 }
         stage('Build') {
