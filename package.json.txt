@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/jackPenman/coursework_2"
+    "url": "https://github.com/hamidgl/Server.git"
   },
   "keywords": [
     "node",
